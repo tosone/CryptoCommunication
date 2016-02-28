@@ -1,0 +1,17 @@
+{
+  "name": "CryptoCommunication",
+  "version": "1.0.0",
+  "description": "Crypto Communication",
+  "main": "server.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "uuid": "^2.0.1",
+    "ws": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/tosone/CryptoCommunication.git"
+  },
+  "author": "Tosone",
+  "license": "MIT"
+}
