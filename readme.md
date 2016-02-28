@@ -1,3 +1,3 @@
-# Websocket-crypto
+# CryptoCommunication
 
 ![](describe.png)
